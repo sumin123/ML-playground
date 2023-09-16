@@ -1,1 +1,5 @@
 .idea
+*.gz
+.ipynb_checkpoints
+__pycache__
+mnist.pkl
