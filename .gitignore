@@ -3,3 +3,6 @@
 .ipynb_checkpoints
 __pycache__
 mnist.pkl
+ptb.train.npy
+ptb.train.txt
+ptb.vocab.pkl
